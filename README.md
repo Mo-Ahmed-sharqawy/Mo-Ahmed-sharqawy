@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohamed Ahmed, graduated from STEM high schools in Egypt, and now I am a college student who studies engineering 🏗️
+- 👀 I’m interested in many programming fields such as front-end and machine learning 
+- 🌱 I’m currently learning front-end and hope to learn machine learning in university (I hope to start learning ML from the next college year)
+- 📫 You can mail me at: mo.ahmed645962@gmail.com
+- ⚡ Hoppies: I have many hobbies like programming, reading novels, riding bicycles, watching animes and manga, and I hope to be a calisthenics athlete
